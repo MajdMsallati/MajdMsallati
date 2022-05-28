@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MajdMsallati
 - 👀 I’m interested in A.I & ML
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on App
 - 📫 How to reach me majd.msallati@gmail.com
 
